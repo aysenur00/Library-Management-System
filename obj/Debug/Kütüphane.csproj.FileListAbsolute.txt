@@ -1,0 +1,257 @@
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\ANIL\Desktop\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\ANIL\Desktop\proje\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\SAMET\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\GÜNCEL PROJE\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Teknoloji\Desktop\12.06\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Teknoloji\Desktop\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.fatura.resources
+C:\Users\SAMET\Desktop\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.fatura.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitaphareketleri.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (4)\102\102\Yeni klasör (3)\Bm Proje\Bm Proje\Kütüphane\obj\Debug\Kütüphane.sifreyenileme.resources
+C:\Users\ANIL\Desktop\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ANIL\Desktop\ProjeSon\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\ProjeSon\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.fatura.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitaphareketleri.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.sifreyenileme.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.fatura.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitaphareketleri.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.sifreyenileme.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ANIL\Desktop\Yeni klasör (6)\ProjeSon\ProjeSon\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.fatura.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitaphareketleri.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.sifreyenileme.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitap_bilgiler.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.fatura.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.girisarayüz.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.içarayüz.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kayıt.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapalma.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapbagis.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapekle.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitaphareketleri.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitaplisteleveguncelle.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kitapverme.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.kullanicislemleri.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.sifreyenileme.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.user.resources
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\SAMET\Desktop\62.Grup-BmProgramlama102 Proje(YENİ)\BmProgramlama102 Proje\Kütüphane\obj\Debug\Kütüphane.pdb

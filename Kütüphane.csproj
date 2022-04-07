@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{677697C3-FF8F-468D-97A5-51EE133B33A3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kütüphane</RootNamespace>
+    <AssemblyName>Kütüphane</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin_bilgiler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_bilgiler.Designer.cs">
+      <DependentUpon>admin_bilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fatura.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="fatura.Designer.cs">
+      <DependentUpon>fatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="girisarayüz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="girisarayüz.Designer.cs">
+      <DependentUpon>girisarayüz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="içarayüz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="içarayüz.Designer.cs">
+      <DependentUpon>içarayüz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayıt.Designer.cs">
+      <DependentUpon>kayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapalma.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kitapalma.Designer.cs">
+      <DependentUpon>kitapalma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapbagis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kitapbagis.Designer.cs">
+      <DependentUpon>kitapbagis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapekle.designer.cs">
+      <DependentUpon>kitapekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitaphareketleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kitaphareketleri.Designer.cs">
+      <DependentUpon>kitaphareketleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitaplisteleveguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitaplisteleveguncelle.designer.cs">
+      <DependentUpon>kitaplisteleveguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapverme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kitapverme.Designer.cs">
+      <DependentUpon>kitapverme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ktphane_nursenaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ktphane_nursenaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="kullaniciislemleri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kullaniciislemleri.Designer.cs">
+      <DependentUpon>kullaniciislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sifreyenileme.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="sifreyenileme.Designer.cs">
+      <DependentUpon>sifreyenileme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin_bilgiler.resx">
+      <DependentUpon>admin_bilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fatura.resx">
+      <DependentUpon>fatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="girisarayüz.resx">
+      <DependentUpon>girisarayüz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="içarayüz.resx">
+      <DependentUpon>içarayüz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayıt.resx">
+      <DependentUpon>kayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapalma.resx">
+      <DependentUpon>kitapalma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapbagis.resx">
+      <DependentUpon>kitapbagis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapekle.resx">
+      <DependentUpon>kitapekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitaphareketleri.resx">
+      <DependentUpon>kitaphareketleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitaplisteleveguncelle.resx">
+      <DependentUpon>kitaplisteleveguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapverme.resx">
+      <DependentUpon>kitapverme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullaniciislemleri.resx">
+      <DependentUpon>kullaniciislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sifreyenileme.resx">
+      <DependentUpon>sifreyenileme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="ktphane_nursenaDataSet.xsc">
+      <DependentUpon>ktphane_nursenaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ktphane_nursenaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ktphane_nursenaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ktphane_nursenaDataSet.xss">
+      <DependentUpon>ktphane_nursenaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
